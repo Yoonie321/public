@@ -1,0 +1,2 @@
+rootProject.name='GeumDokki_GetImageCrop'
+include ':app'
